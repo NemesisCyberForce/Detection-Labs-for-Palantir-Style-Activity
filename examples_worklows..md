@@ -12,6 +12,9 @@ We introduce a new internal logbook (`self.real_connection_log`) to track connec
 from collections import defaultdict
 from datetime import datetime, timedelta
 import json
+import time
+import socket
+import psutil 
 
 class PalantirDetector:
     def __init__(self, allowlist_file='allowlist.json'):
