@@ -54,7 +54,6 @@ By using this repository, you agree you are solely responsible for adhering to a
 
 
 
-
 ---
 
 ### **1. Background & Mission**
@@ -105,6 +104,11 @@ Sigma rules are **vendor-agnostic** detection rules. Convert them to your SIEM f
 ### **5. Known White-Label Implementations**
 
 **Disclaimer:** The indicators below are derived from OSINT research and serve as high-fidelity examples of artifacts analysts should look for. They may change over time and should be verified in your specific environment.
+
+
+⚠️ SIMULATION NOTICE / HINWEIS ZUR SIMULATION
+
+Please Note: The indicator names listed below (e.g., POLiS, vs-dataharvester, Berlin-7) are FICTITIOUS EXAMPLES (Placeholders) created for this training simulation. They are designed to teach the structure of indicators (IOCs) without exposing classified information or compromising active investigations. Real-world advanced persistent threats (APTs) use generic names (e.g., svchost.exe) to hide. This lab teaches you the logic of detection, using these distinct names to make the learning process easier.
 
 | Agency/Country       | Cover Name      | Technical Fingerprints                                                                 |
 |----------------------|-----------------|----------------------------------------------------------------------------------------|
