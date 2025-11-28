@@ -196,6 +196,7 @@ detection:
     dst_port: 443
     http.uri: '/polis/v1/heartbeat'
     http.user_agent: 'HessPol/*'
+    ja3_hash: 'a387c3a7a4d...' # Fiktive Hash for Simulation
   timeframe: 5m
   condition: selection | count > 3
 level: critical
