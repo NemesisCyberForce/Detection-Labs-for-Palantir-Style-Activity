@@ -1,13 +1,18 @@
 # Detection Labs for Palantir-Style Activity
 #### Open SIEM Labs with Sigma Rules
 
-### **Disclaimer**
+
+### **Disclaimer & Project Scope**
 
 This repository is strictly for **educational, research, and defensive purposes only**.
+**CRITICAL NOTE:** This is a **SAFE SIMULATION** designed to teach defensive concepts. The code is not intended to be, and should never be used as, a functional offensive tool or weapon.
+
 It is NOT a guarantee of security. Cybersecurity is about **reducing risk**, not eliminating it.
+
 The core schematics for understanding the logic are in `README.md`.
 Source files and advanced tools are separated for **expert use only**, prioritizing responsible learning over potential misuse.
 
+**💡 Expert Highlight:** Don't miss the **Advanced Jitter Analysis** in the Continuous Monitoring workflow! This logic represents high-fidelity threat hunting and is the most advanced, non-simulated component of this repository.
 ---
 
 #### 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑
