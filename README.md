@@ -1,4 +1,4 @@
-# Palantir Threat Detection
+# Detection Labs for Palantir-Style Activity
 #### Open SIEM Labs with Sigma Rules
 
 ### **Disclaimer**
