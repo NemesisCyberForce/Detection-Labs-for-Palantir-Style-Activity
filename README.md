@@ -15,7 +15,6 @@ It is NOT a guarantee of security. Cybersecurity is about **reducing risk**, not
 The core schematics for understanding the logic are in `README.md`.
 Source files and advanced tools are separated for **expert use only**, prioritizing responsible learning over potential misuse.
 
-💡 Expert Highlight:** Don't miss the **Advanced Jitter Analysis** in the Continuous Monitoring workflow! This logic represents high-fidelity threat hunting and is the most advanced, non-simulated component of this repository.
 
 --- 
 ####  ⚠️ 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑 ⚠️ 
@@ -32,6 +31,9 @@ This toolkit, including all rules, fingerprints, and simulation scripts, is prov
 By using this repository, you agree you are solely responsible for adhering to all applicable laws and regulations. The project contributors are not liable for any misuse or damage caused by this toolkit.
 
 **Think before you type!**
+
+
+💡 Expert Highlight:** Don't miss the **Advanced Jitter Analysis** in the Continuous Monitoring workflow! This logic represents high-fidelity threat hunting and is the most advanced, non-simulated component of this repository.
 
 ## **Table of Contents**
 
