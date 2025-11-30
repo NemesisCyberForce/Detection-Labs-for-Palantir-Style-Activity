@@ -19,9 +19,6 @@ Source files and advanced tools are separated for **expert use only**, prioritiz
 
 --- 
 ####  ⚠️ 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑 ⚠️ 
-**READ THIS FIRST. This section supersedes all other documentation.**
-
-This toolkit, including all rules, fingerprints, and simulation scripts, is provided EXCLUSIVELY for **defensive use on networks you are legally authorized to protect.**
 
 #### ABSOLUTELY NO OFFENSIVE USE IS PERMITTED.
 
