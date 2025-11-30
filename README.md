@@ -1,5 +1,5 @@
 # Detection Labs for Palantir-Style Activity
-###### Hunt the Unvisible by Volkan Sah
+###### Hunt the Unvisible with Volkan Sah
 #### Blue Team - Open SIEM Labs with Sigma Rules
 
 
