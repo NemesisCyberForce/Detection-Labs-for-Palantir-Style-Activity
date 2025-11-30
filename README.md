@@ -1,5 +1,5 @@
 # Detection Labs for Palantir-Style Activity
-##### Open SIEM Labs with Sigma Rules
+##### Blue Team - Open SIEM Labs with Sigma Rules
 
 
 > [!WARNING]
