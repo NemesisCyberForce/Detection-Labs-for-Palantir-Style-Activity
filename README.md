@@ -437,4 +437,10 @@ Your star helps us help more people. Thank you!
 ## **Credits**
 [Volkan Sah](https://github.com/volkansah)
 
+# LICENSE
+This repository is licensed under the **GNU General Public License, Version 3 (GPLv3)**.
+
+- You are free to use, modify, and distribute this work under the terms of the GPLv3.
+
+**Crucially (Copyleft):** If you distribute modified versions of this code, you must also license those modifications under the GPLv3 and provide them free of charge to recipients. You may not charge a license fee for the use of this code.
 
