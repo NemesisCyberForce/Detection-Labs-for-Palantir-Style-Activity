@@ -1,5 +1,5 @@
 # Detection Labs for Palantir-Style Activity
-##### EDU Category: Detection Engineer, Category: Threat Hunter, Category: SIEM Engineer, Category: SOC Manager, Category: SOC Analyst, Category: Incident Responder, Category: Cyber Threat Intelligence Analyst.
+##### EDU Category: Detection Engineer, Threat Hunter, SIEM Engineer, SOC Manager, SOC Analyst, Incident Responder, Cyber Threat Intelligence Analyst.
 ###### Hunt the Unvisible with Volkan Sah
 #### Blue Team - Open SIEM Labs with Sigma Rules
 
