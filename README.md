@@ -19,16 +19,17 @@ The core schematics for understanding the logic are in `README.md`.
 Source files and advanced tools are separated for **expert use only**, prioritizing responsible learning over potential misuse.
 
 
---- 
-####  ⚠️ 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑 ⚠️ 
+> [!WARNING]
+>  ⚠️ 🛑 OPERATIONAL SECURITY (OPSEC) & LEGAL NOTICE 🛑 ⚠️
 
-#### ABSOLUTELY NO OFFENSIVE USE IS PERMITTED.
 
-**Legal Authority is MANDATORY:** Before any monitoring, testing, or analysis, you must possess **explicit, written, and verifiable legal authority** from the network owner.
+> #### ABSOLUTELY NO OFFENSIVE USE IS PERMITTED.
+>
+> **Legal Authority is MANDATORY:** Before any monitoring, testing, or analysis, you must possess **explicit, written, and verifiable legal authority** from the network owner.
+>
+> **Consequences:** Unauthorized access, monitoring, or testing is strictly illegal and will lead to severe civil and criminal penalties, including imprisonment.
 
-**Consequences:** Unauthorized access, monitoring, or testing is strictly illegal and will lead to severe civil and criminal penalties, including imprisonment.
-
-By using this repository, you agree you are solely responsible for adhering to all applicable laws and regulations. The project contributors are not liable for any misuse or damage caused by this lessons (repo)
+ By using this repository, you agree you are solely responsible for adhering to all applicable laws and regulations. The project contributors are not liable for any misuse or damage caused by this lessons (repo)
 
 
 
